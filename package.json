@@ -1,0 +1,10 @@
+{
+  "name": "highlightjs",
+  "version": "8.0.0",
+  "description": "Syntax highlighting with language autodetection",
+  "main": "highlight.pack.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/components/highlightjs"
+  }
+}
